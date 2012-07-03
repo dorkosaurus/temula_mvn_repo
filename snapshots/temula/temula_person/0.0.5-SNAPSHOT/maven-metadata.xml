@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>temula</groupId>
+  <artifactId>temula_person</artifactId>
+  <version>0.0.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120703.032829</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120703032829</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>0.0.5-20120703.032829-1</value>
+        <updated>20120703032829</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.5-20120703.032829-1</value>
+        <updated>20120703032829</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
